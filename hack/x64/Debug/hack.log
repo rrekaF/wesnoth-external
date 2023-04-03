@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\pewuk\Desktop\0x420\hack\hack\main.cpp(20,57): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\pewuk\Desktop\0x420\hack\hack\main.cpp(22,57): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\pewuk\Desktop\0x420\hack\hack\main.cpp(36,59): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
